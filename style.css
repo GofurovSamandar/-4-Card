@@ -1,0 +1,221 @@
+*{
+    margin: 0;
+    padding: 0;
+    transition: 1s;
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 100vh;
+    background-image: url(umg/604f6358cd0a4b83989516f724ed8bea.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.ward{
+    width: 400px;
+    height: 70%;
+ 
+}
+
+.rtm{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    background-image: url(umg/1641230578_1-abrakadabra-fun-p-krasivie-oboi-na-telefon-android-kosmos-2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fff;
+    height: 100%;
+    border-radius: 20px;
+    gap: 20px;
+    overflow: hidden;
+    box-shadow: 4px 6px 4px;
+    
+}
+.rtd{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    background-image: url(umg/1653259502_1-celes-club-p-kosmos-fon-dlya-telefona-krasivie-1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fff;
+    height: 100%;
+    border-radius: 20px;
+    gap: 20px;
+    overflow: hidden;
+    box-shadow: 4px 6px 4px;
+
+
+}
+.rtm p{
+    width: 250px;
+    
+    transform: translateY(400px);
+}
+.rtn p{
+    width: 250px;
+    transform: translateY(400px);
+
+}
+.rtd button{
+    transform: translateY(400px);  transition: 1s;
+}
+.rtm button{
+    transform: translateY(400px);  transition: 1s;
+}
+.rtn button{
+    transform: translateY(400px);
+    transition: 1s;
+}
+.rts button{
+    transform: translateY(400px);  transition: 1s;
+}
+.rts p{
+    width: 250px;
+    transform: translateY(400px);
+}
+.rtd p{
+    width: 250px;
+    transform: translateY(400px);
+}
+.rtm button{
+   background-color: black;
+    width: 120px;
+    height: 40px;
+    font-size: 18px;
+    border-radius: 10px;
+  border: 1px solid #fff;
+  color: #fff;
+   
+
+
+}
+.rtd button{
+background-color: black;
+    width: 120px;
+    height: 40px;
+    font-size: 18px;
+    border-radius: 10px;
+  border: 1px solid #fff;
+  color: #fff;
+}
+.rtn button{
+    background-color: black;
+    width: 120px;
+    height: 40px;
+    font-size: 18px;
+    border-radius: 10px;
+  border: 1px solid #fff;
+  color: #fff;
+
+}
+.rts button{
+   background-color: black;
+    width: 120px;
+    height: 40px;
+    font-size: 18px;
+    border-radius: 10px;
+  border: 1px solid #fff;
+  color: #fff;
+}
+.rtn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    background-image:url(umg/1653259504_9-celes-club-p-kosmos-fon-dlya-telefona-krasivie-9.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fff;
+    height: 100%;
+    border-radius: 20px;
+    gap: 20px;
+    overflow: hidden;
+    box-shadow: 4px 6px 4px;
+}
+.rts{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    background-image: url(umg/a001b7bee3bdbbd7ae88373e0bc06589.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fff;
+    height: 100%;
+    border-radius: 20px;
+    gap: 20px;
+    overflow: hidden;
+    box-shadow: 4px 6px 4px;
+
+    
+}
+.rtm h1{
+    transform: translateY(300px);
+}
+.rtd h1{
+    transform: translateY(300px);
+}
+.rtn h1{
+    transform: translateY(300px);
+}
+.rts h1{
+    transform: translateY(300px);
+}
+.rtd:hover h1{
+    transform: translate(0px);
+    transition: 1s;
+}
+.rtm:hover h1{
+    transform: translate(0px);
+    transition: 1s;
+}
+.rtn:hover h1{
+    transform: translate(0px);
+    transition: 1s;
+}
+.rts:hover h1{
+    transform: translate(0px);
+    transition: 1s;
+}
+.rtd:hover p{
+    transform: translate(0px);
+    transition: 1s;
+}
+.rtm:hover p{
+    transform: translate(0px);
+    transition: 1s;
+}
+.rtn:hover p{
+    transform: translate(0px);
+    transition: 1s;
+}
+.rts:hover p{
+    transform: translate(0px);
+    transition: 1s;
+}
+.rtd:hover button{
+    transform: translate(0px);
+   
+}
+.rtm:hover button{
+    transform: translate(0px);
+   
+}
+.rtn:hover button{
+    transform: translate(0px);
+    
+}
+.rts:hover button{
+    transform: translate(0px);
+  
+}
